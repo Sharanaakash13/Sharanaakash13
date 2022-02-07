@@ -8,12 +8,13 @@ at [HAN University of applied science](https://hanuniversity.com/en/). My intere
 
 # Projects
 ## In Progress 
-- Path Planning using Reinforcement Learning. 
-- Worm body pose classification (Neural Network).
+
 
 ## Completed
 - Modelling Gantry crane dynamics
 - Lock and key 
+- Path Planning using Reinforcement Learning. 
+- Worm body pose classification (Neural Network).
      
 # Contact 
 - Email : sharanaakash1310@gmail.com
