@@ -7,8 +7,7 @@ at [HAN University of applied science](https://hanuniversity.com/en/). My intere
 - Mastering : *Python*, *Matlab*.
 
 # Projects
-## In Progress 
-
+## In Progress
 
 ## Completed
 - Modelling Gantry crane dynamics
