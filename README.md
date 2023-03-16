@@ -11,7 +11,7 @@ Greetings! My name is Sharan Aakash, and I am a Master's graduate in Automotive 
 * Path Planning using Reinforcement Learning: Designed and developed a reinforcement learning algorithm to plan a path by by sensing the environment with an ultrasonic sensor and learning on its own.
 * Worm body pose classification using Convolutional Neural Network (CNN): Developed a CNN-based system to classify the poses of a worm based shapes of English alphabetic letter using 15,000 image data.
 * Speed Sign detector (CNN) - personal project: Built a CNN-based system to detect Dutch speed limit signs in images.
-* Number Identifier - 
+* Number Recognition - Developed a Neural Network that can identify handwritten dataset numbers.
 
 ## Skills 
 * Programming Languages: Python, MATLAB, Simulink, Robot Operating System (ROS), SQL.
