@@ -4,7 +4,6 @@ Greetings! My name is Sharan Aakash, and I am a Master's graduate in Automotive 
 ## Education
 * Master's degree in Automotive Systems at HAN University of Applied Sciences, where I focused on System Modelling, Applied Control, Smart Mobility, and Big Data and Small Data. 
 * Bachelor's degree in Mechanical Engineering at Anna University.
-* I am proficient in programming languages such as MATLAB, Simulink, Robot Operating System (ROS) and Python.
 
 ## Project Respository
 * Modelling Gantry crane dynamics: Developed a dynamic model of a gantry crane system to predict its behavior which can be used to design a controller.
