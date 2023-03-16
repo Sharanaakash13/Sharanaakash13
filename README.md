@@ -14,7 +14,7 @@ Greetings! My name is Sharan Aakash, and I am a Master's graduate in Automotive 
 
 ## Skills 
 * Programming Languages: Python, MATLAB, Simulink, Robot Operating System (ROS), SQL.
-* Frameworks and Libraries: TensorFlow, NumPy, Pandas, OpenCV.
+* Frameworks and Libraries: TensorFlow, NumPy, Pandas, OpenCV, Keras.
 * Data Science and Analytics: Data visualization, Data manipulation, Data cleaning, Statistical analysis, Machine learning, Deep learning.
 
 ## Contact
