@@ -12,10 +12,13 @@ Greetings! My name is Sharan Aakash, and I am a Master's graduate in Automotive 
 * Worm body pose classification using Convolutional Neural Network (CNN): Developed a CNN-based system to classify the poses of a worm based shapes of English alphabetic letter using 15,000 image data.
 * Speed Sign detector (CNN) - personal project: Built a CNN-based system to detect Dutch speed limit signs in images.
 * Number Recognition - Developed a Neural Network that can identify handwritten dataset numbers.
+* Black-box Modelling: Implemented system identification for an LTI model using a PRBS input signal with four different model structures.
+* Linear Regression: Predicted the compressive strength of concrete based on various input features using gradient descent.
+* Neural Network: Built and trained a neural network on the breast cancer dataset to classify cancer as malignant or benign.
 
 ## Skills 
 * Programming Languages: Python, MATLAB, Simulink, Robot Operating System (ROS), SQL.
-* Frameworks and Libraries: TensorFlow, NumPy, Pandas, OpenCV, Keras.
+* Frameworks and Libraries: TensorFlow, NumPy, Pandas, OpenCV, Kerasm Matplotlib.
 * Data Science and Analytics: Data visualization, Data manipulation, Data cleaning, Statistical analysis, Machine learning, Deep learning.
 
 ## Contact
